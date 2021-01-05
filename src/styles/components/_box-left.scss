@@ -46,14 +46,9 @@
         background: darken($color: white, $amount: 10);
       }
    
-    @media (min-width: 375px) {
-        position: absolute;
-        margin-top: 100px;
-        margin-left: 5px;
-    }
     @media (max-width: 414px) {
         position: absolute;
-        margin-top: 250px;
+        margin-top: 200px;
         margin-left: 20px;
     }
     @media (max-width: 360px) {
