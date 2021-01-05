@@ -10,7 +10,7 @@ export const Header = () => {
       console.log(toggleNav);
     return (
         <div className="navbar">
-          <img src={logo} className="navbar__logo" alt="logo"/>   
+          <img src="https://i.imgur.com/OaayzOF.png" className="navbar__logo" alt="logo"/>   
           { isNavVisible && (
             <div className="navbar__menu">
             <a href="/" className="navbar__menu--links">Shop all</a>
