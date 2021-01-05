@@ -1,5 +1,4 @@
 import React,{ useState } from "react";
-import logo from '../assets/logo/logo.png';
 import badge from '../assets/Bag.svg';
 export const Header = () => {
     
